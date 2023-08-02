@@ -1,4 +1,4 @@
 # hearty
 
-*Apple Health XML parsing and Google Fit REST API client*
+*An LFE Apple Health XML parser and Google Fit REST API client*
 

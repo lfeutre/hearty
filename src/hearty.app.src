@@ -1,5 +1,5 @@
 {application, 'hearty', [
-    {description, "Apple Health XML parsing and Google Fit REST API client"},
+    {description, "An LFE Apple Health XML parser and Google Fit REST API client"},
     {vsn, "0.0.0"},
     {registered, []},
     {applications, [
