@@ -1,3 +1,7 @@
+# MacOS
+.DS_Store
+
+# Erlang
 .eunit
 *.o
 *.beam
@@ -15,3 +19,21 @@ deps
 .rebar3
 _build/
 _checkouts/
+rebar.lock
+.rebar
+rebar/*
+.rebar/*
+rebar3.crashdump
+
+# Emacs
+*~
+\#*\#
+.\#*
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+
+# Project
+/docs/user-guide/build/

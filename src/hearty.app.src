@@ -1,0 +1,20 @@
+{application, 'hearty', [
+    {description, "Apple Health XML parsing and Google Fit REST API client"},
+    {vsn, "0.0.0"},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env,[]},
+    {modules, []},
+
+    %% Package metadata:
+    {pkg_name, lxml},
+    {licenses, ["Apache-2"]},
+    {links, [
+        {"GitHub", "https://github.com/lfeutre/hearty"},
+        {"Hex", "https://hex.pm/packages/hearty"}
+    ]},
+    {exclude_files, ["priv/images/*", "priv/html/*"]}
+ ]}.
