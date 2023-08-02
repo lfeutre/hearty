@@ -10,7 +10,7 @@
     {modules, []},
 
     %% Package metadata:
-    {pkg_name, lxml},
+    {pkg_name, hearty},
     {licenses, ["Apache-2"]},
     {links, [
         {"GitHub", "https://github.com/lfeutre/hearty"},
